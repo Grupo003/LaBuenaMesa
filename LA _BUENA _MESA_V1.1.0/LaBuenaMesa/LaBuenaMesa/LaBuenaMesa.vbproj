@@ -66,13 +66,6 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.Designer.vb">
-      <DependentUpon>Form1.vb</DependentUpon>
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -88,6 +81,138 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Presentacion\Principal\principal.designer.vb">
+      <DependentUpon>principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Principal\principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Principal\LoginForm1.designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Principal\LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_administrador.designer.vb">
+      <DependentUpon>frm_administrador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_administrador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_Almacen.designer.vb">
+      <DependentUpon>frm_Almacen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_Almacen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_asignar_pedidoMotista.designer.vb">
+      <DependentUpon>frm_asignar_pedidoMotista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_asignar_pedidoMotista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_bitacora.designer.vb">
+      <DependentUpon>frm_bitacora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_bitacora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_caja.designer.vb">
+      <DependentUpon>frm_caja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_caja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_cajaCajero.designer.vb">
+      <DependentUpon>frm_cajaCajero.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_cajaCajero.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_cajero.designer.vb">
+      <DependentUpon>frm_cajero.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_cajero.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_Cliente.designer.vb">
+      <DependentUpon>frm_Cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_Cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_detallePedido.designer.vb">
+      <DependentUpon>frm_detallePedido.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_detallePedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_grupo.designer.vb">
+      <DependentUpon>frm_grupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_grupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_mesa.designer.vb">
+      <DependentUpon>frm_mesa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_mesa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_mesero.designer.vb">
+      <DependentUpon>frm_mesero.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_mesero.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_monto.designer.vb">
+      <DependentUpon>frm_monto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_monto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_motista.designer.vb">
+      <DependentUpon>frm_motista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_motista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_pago.designer.vb">
+      <DependentUpon>frm_pago.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_pago.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_pedido.designer.vb">
+      <DependentUpon>frm_pedido.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_pedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_privilegio.designer.vb">
+      <DependentUpon>frm_privilegio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_privilegio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_producto.designer.vb">
+      <DependentUpon>frm_producto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_producto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_productoAlmacen.designer.vb">
+      <DependentUpon>frm_productoAlmacen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_productoAlmacen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_recepcionista.designer.vb">
+      <DependentUpon>frm_recepcionista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_recepcionista.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
@@ -95,6 +220,72 @@
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Principal\principal.resx">
+      <DependentUpon>principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Principal\LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_administrador.resx">
+      <DependentUpon>frm_administrador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_Almacen.resx">
+      <DependentUpon>frm_Almacen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_asignar_pedidoMotista.resx">
+      <DependentUpon>frm_asignar_pedidoMotista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_bitacora.resx">
+      <DependentUpon>frm_bitacora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_caja.resx">
+      <DependentUpon>frm_caja.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_cajaCajero.resx">
+      <DependentUpon>frm_cajaCajero.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_cajero.resx">
+      <DependentUpon>frm_cajero.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_Cliente.resx">
+      <DependentUpon>frm_Cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_detallePedido.resx">
+      <DependentUpon>frm_detallePedido.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_grupo.resx">
+      <DependentUpon>frm_grupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_mesa.resx">
+      <DependentUpon>frm_mesa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_mesero.resx">
+      <DependentUpon>frm_mesero.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_monto.resx">
+      <DependentUpon>frm_monto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_motista.resx">
+      <DependentUpon>frm_motista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_pago.resx">
+      <DependentUpon>frm_pago.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_pedido.resx">
+      <DependentUpon>frm_pedido.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_privilegio.resx">
+      <DependentUpon>frm_privilegio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_producto.resx">
+      <DependentUpon>frm_producto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_productoAlmacen.resx">
+      <DependentUpon>frm_productoAlmacen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_recepcionista.resx">
+      <DependentUpon>frm_recepcionista.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -107,6 +298,11 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Clases\" />
+    <Folder Include="Conexion\" />
+    <Folder Include="Presentacion\Compuestos\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
