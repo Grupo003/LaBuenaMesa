@@ -7,6 +7,8 @@
     <body>
         <?php
         DEMO
+        
+        DEMO2
 // put your code here
         ?>
     </body>
