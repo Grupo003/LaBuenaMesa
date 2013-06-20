@@ -510,4 +510,5 @@ Public Function EsNumero(ByVal car As Char) As Boolean
             M_Generico.CargarCombo(tf_nombre, "Proc_ListarProductoPorNombre")
             MConexion.Desconectar()
         End If
-    End SubEnd Class
+    End Sub
+End Class
