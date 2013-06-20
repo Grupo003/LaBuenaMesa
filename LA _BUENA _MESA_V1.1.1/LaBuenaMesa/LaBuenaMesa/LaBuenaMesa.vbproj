@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C19AE751-8B64-402C-AC66-EB55CEA94E27}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>LaBuenaMesa.My.MyApplication</StartupObject>
+    <RootNamespace>LaBuenaMesa</RootNamespace>
+    <AssemblyName>LaBuenaMesa</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LaBuenaMesa.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LaBuenaMesa.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\cls_ACCIONES_USUARIO.vb" />
+    <Compile Include="Clases\cls_ACCION_FORMULARIO.vb" />
+    <Compile Include="Clases\cls_ADMINISTRADOR.vb" />
+    <Compile Include="Clases\cls_ALMACEN.vb" />
+    <Compile Include="Clases\cls_BITACORA.vb" />
+    <Compile Include="Clases\cls_CAJA.vb" />
+    <Compile Include="Clases\cls_CAJA_CAJERO.vb" />
+    <Compile Include="Clases\cls_CAJERO.vb" />
+    <Compile Include="Clases\cls_CARGAR_FORM.vb" />
+    <Compile Include="Clases\cls_CLIENTE.vb" />
+    <Compile Include="Clases\Cls_COD_MESERO.vb" />
+    <Compile Include="Clases\cls_COD_USUARIO_GRUPO.vb" />
+    <Compile Include="Clases\cls_DETALLE_DOMICILIO.vb" />
+    <Compile Include="Clases\cls_DETALLE_PEDIDO.vb" />
+    <Compile Include="Clases\cls_GRUPO.vb" />
+    <Compile Include="Clases\cls_MESA.vb" />
+    <Compile Include="Clases\cls_MESERO.vb" />
+    <Compile Include="Clases\cls_MONTO.vb" />
+    <Compile Include="Clases\cls_MOTISTA.vb" />
+    <Compile Include="Clases\cls_PAGO.vb" />
+    <Compile Include="Clases\cls_PEDIDO.vb" />
+    <Compile Include="Clases\cls_PERMISO.vb" />
+    <Compile Include="Clases\cls_PRIVILEGIO.vb" />
+    <Compile Include="Clases\cls_PRODUCTO.vb" />
+    <Compile Include="Clases\cls_PRODUCTO_ALMACEN.vb" />
+    <Compile Include="Clases\cls_RECEPCIONISTA.vb" />
+    <Compile Include="Clases\cls_RESERVA.vb" />
+    <Compile Include="Clases\cls_USUARIO.vb" />
+    <Compile Include="Clases\Metodos.vb" />
+    <Compile Include="Conexion\MConexion.vb" />
+    <Compile Include="Conexion\M_Generico.vb" />
+    <Compile Include="MDForm.designer.vb">
+      <DependentUpon>MDForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Presentacion\Principal\principal.designer.vb">
+      <DependentUpon>principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Principal\principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Principal\LoginForm1.designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Principal\LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_administrador.designer.vb">
+      <DependentUpon>frm_administrador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_administrador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_Almacen.designer.vb">
+      <DependentUpon>frm_Almacen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_Almacen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_asignar_pedidoMotista.designer.vb">
+      <DependentUpon>frm_asignar_pedidoMotista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_asignar_pedidoMotista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_bitacora.designer.vb">
+      <DependentUpon>frm_bitacora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_bitacora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_caja.designer.vb">
+      <DependentUpon>frm_caja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_caja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_cajaCajero.designer.vb">
+      <DependentUpon>frm_cajaCajero.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_cajaCajero.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_cajero.designer.vb">
+      <DependentUpon>frm_cajero.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_cajero.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_Cliente.designer.vb">
+      <DependentUpon>frm_Cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_Cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_detallePedido.designer.vb">
+      <DependentUpon>frm_detallePedido.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_detallePedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_grupo.designer.vb">
+      <DependentUpon>frm_grupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_grupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_mesa.designer.vb">
+      <DependentUpon>frm_mesa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_mesa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_mesero.designer.vb">
+      <DependentUpon>frm_mesero.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_mesero.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_monto.designer.vb">
+      <DependentUpon>frm_monto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_monto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_motista.designer.vb">
+      <DependentUpon>frm_motista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_motista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_pago.designer.vb">
+      <DependentUpon>frm_pago.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_pago.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_pedido.designer.vb">
+      <DependentUpon>frm_pedido.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_pedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_privilegio.designer.vb">
+      <DependentUpon>frm_privilegio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_privilegio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_producto.designer.vb">
+      <DependentUpon>frm_producto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_producto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_productoAlmacen.designer.vb">
+      <DependentUpon>frm_productoAlmacen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_productoAlmacen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_recepcionista.designer.vb">
+      <DependentUpon>frm_recepcionista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Simples\frm_recepcionista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MDForm.resx">
+      <DependentUpon>MDForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Principal\principal.resx">
+      <DependentUpon>principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Principal\LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_administrador.resx">
+      <DependentUpon>frm_administrador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_Almacen.resx">
+      <DependentUpon>frm_Almacen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_asignar_pedidoMotista.resx">
+      <DependentUpon>frm_asignar_pedidoMotista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_bitacora.resx">
+      <DependentUpon>frm_bitacora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_caja.resx">
+      <DependentUpon>frm_caja.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_cajaCajero.resx">
+      <DependentUpon>frm_cajaCajero.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_cajero.resx">
+      <DependentUpon>frm_cajero.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_Cliente.resx">
+      <DependentUpon>frm_Cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_detallePedido.resx">
+      <DependentUpon>frm_detallePedido.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_grupo.resx">
+      <DependentUpon>frm_grupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_mesa.resx">
+      <DependentUpon>frm_mesa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_mesero.resx">
+      <DependentUpon>frm_mesero.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_monto.resx">
+      <DependentUpon>frm_monto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_motista.resx">
+      <DependentUpon>frm_motista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_pago.resx">
+      <DependentUpon>frm_pago.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_pedido.resx">
+      <DependentUpon>frm_pedido.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_privilegio.resx">
+      <DependentUpon>frm_privilegio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_producto.resx">
+      <DependentUpon>frm_producto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_productoAlmacen.resx">
+      <DependentUpon>frm_productoAlmacen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Simples\frm_recepcionista.resx">
+      <DependentUpon>frm_recepcionista.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Presentacion\Compuestos\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
