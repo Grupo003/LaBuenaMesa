@@ -97,10 +97,10 @@
     <Compile Include="Clases\Metodos.vb" />
     <Compile Include="Conexion\MConexion.vb" />
     <Compile Include="Conexion\M_Generico.vb" />
-    <Compile Include="MDForm.designer.vb">
+    <Compile Include="Presentacion\MDForm.designer.vb">
       <DependentUpon>MDForm.vb</DependentUpon>
     </Compile>
-    <Compile Include="MDForm.vb">
+    <Compile Include="Presentacion\MDForm.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -252,7 +252,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="MDForm.resx">
+    <EmbeddedResource Include="Presentacion\MDForm.resx">
       <DependentUpon>MDForm.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
