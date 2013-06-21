@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>9.0.30729</ProductVersion>
+    <ProductVersion>9.0.21022</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{C19AE751-8B64-402C-AC66-EB55CEA94E27}</ProjectGuid>
     <OutputType>WinExe</OutputType>
@@ -254,6 +254,7 @@
   <ItemGroup>
     <EmbeddedResource Include="Presentacion\MDForm.resx">
       <DependentUpon>MDForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
@@ -263,69 +264,91 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Principal\principal.resx">
       <DependentUpon>principal.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Principal\LoginForm1.resx">
       <DependentUpon>LoginForm1.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_administrador.resx">
       <DependentUpon>frm_administrador.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_Almacen.resx">
       <DependentUpon>frm_Almacen.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_asignar_pedidoMotista.resx">
       <DependentUpon>frm_asignar_pedidoMotista.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_bitacora.resx">
       <DependentUpon>frm_bitacora.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_caja.resx">
       <DependentUpon>frm_caja.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_cajaCajero.resx">
       <DependentUpon>frm_cajaCajero.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_cajero.resx">
       <DependentUpon>frm_cajero.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_Cliente.resx">
       <DependentUpon>frm_Cliente.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_detallePedido.resx">
       <DependentUpon>frm_detallePedido.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_grupo.resx">
       <DependentUpon>frm_grupo.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_mesa.resx">
       <DependentUpon>frm_mesa.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_mesero.resx">
       <DependentUpon>frm_mesero.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_monto.resx">
       <DependentUpon>frm_monto.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_motista.resx">
       <DependentUpon>frm_motista.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_pago.resx">
       <DependentUpon>frm_pago.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_pedido.resx">
       <DependentUpon>frm_pedido.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_privilegio.resx">
       <DependentUpon>frm_privilegio.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_producto.resx">
       <DependentUpon>frm_producto.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_productoAlmacen.resx">
       <DependentUpon>frm_productoAlmacen.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Simples\frm_recepcionista.resx">
       <DependentUpon>frm_recepcionista.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
