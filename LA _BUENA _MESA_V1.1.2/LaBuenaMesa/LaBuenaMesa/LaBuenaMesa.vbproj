@@ -97,10 +97,46 @@
     <Compile Include="Clases\Metodos.vb" />
     <Compile Include="Conexion\MConexion.vb" />
     <Compile Include="Conexion\M_Generico.vb" />
+    <Compile Include="Presentacion\Compuestos\frm_meseroHacePedido.designer.vb">
+      <DependentUpon>frm_meseroHacePedido.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Compuestos\frm_meseroHacePedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Compuestos\frm_registrarCajaCajeroPago.designer.vb">
+      <DependentUpon>frm_registrarCajaCajeroPago.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Compuestos\frm_registrarCajaCajeroPago.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Compuestos\frm_registroCaja.designer.vb">
+      <DependentUpon>frm_registroCaja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Compuestos\frm_registroCaja.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Presentacion\Compuestos\frm_registroPersona.designer.vb">
       <DependentUpon>frm_registroPersona.vb</DependentUpon>
     </Compile>
     <Compile Include="Presentacion\Compuestos\frm_registroPersona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Compuestos\frm_registroProductos.designer.vb">
+      <DependentUpon>frm_registroProductos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Compuestos\frm_registroProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Compuestos\frm_registros.designer.vb">
+      <DependentUpon>frm_registros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Compuestos\frm_registros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Compuestos\frm_reserva.designer.vb">
+      <DependentUpon>frm_reserva.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Compuestos\frm_reserva.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Presentacion\MDForm.designer.vb">
@@ -258,8 +294,26 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Presentacion\Compuestos\frm_meseroHacePedido.resx">
+      <DependentUpon>frm_meseroHacePedido.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Compuestos\frm_registrarCajaCajeroPago.resx">
+      <DependentUpon>frm_registrarCajaCajeroPago.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Compuestos\frm_registroCaja.resx">
+      <DependentUpon>frm_registroCaja.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\Compuestos\frm_registroPersona.resx">
       <DependentUpon>frm_registroPersona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Compuestos\frm_registroProductos.resx">
+      <DependentUpon>frm_registroProductos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Compuestos\frm_registros.resx">
+      <DependentUpon>frm_registros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Compuestos\frm_reserva.resx">
+      <DependentUpon>frm_reserva.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\MDForm.resx">
       <DependentUpon>MDForm.vb</DependentUpon>
