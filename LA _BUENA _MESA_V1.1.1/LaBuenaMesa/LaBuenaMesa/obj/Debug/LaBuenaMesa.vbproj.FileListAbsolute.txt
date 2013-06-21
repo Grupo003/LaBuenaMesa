@@ -61,3 +61,35 @@ C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuen
 C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_productoAlmacen.resources
 C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_recepcionista.resources
 C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.vbproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.exe
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.xml
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.pdb
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.exe
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.pdb
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.xml
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.MDForm.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.Resources.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Principal.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_login.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_administrador.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Almacen.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_asignar_pedidoMotista.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_bitacora.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_caja.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajaCajero.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajero.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Cliente.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_detallePedido.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_grupo.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesa.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesero.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_monto.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_motista.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pago.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pedido.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_privilegio.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_producto.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_productoAlmacen.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_recepcionista.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.vbproj.GenerateResource.Cache
