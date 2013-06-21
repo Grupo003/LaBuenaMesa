@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>9.0.21022</ProductVersion>
+    <ProductVersion>9.0.30729</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{C19AE751-8B64-402C-AC66-EB55CEA94E27}</ProjectGuid>
     <OutputType>WinExe</OutputType>
@@ -97,6 +97,12 @@
     <Compile Include="Clases\Metodos.vb" />
     <Compile Include="Conexion\MConexion.vb" />
     <Compile Include="Conexion\M_Generico.vb" />
+    <Compile Include="Presentacion\Compuestos\frm_registroPersona.designer.vb">
+      <DependentUpon>frm_registroPersona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Compuestos\frm_registroPersona.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Presentacion\MDForm.designer.vb">
       <DependentUpon>MDForm.vb</DependentUpon>
     </Compile>
@@ -252,6 +258,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Presentacion\Compuestos\frm_registroPersona.resx">
+      <DependentUpon>frm_registroPersona.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\MDForm.resx">
       <DependentUpon>MDForm.vb</DependentUpon>
       <SubType>Designer</SubType>
@@ -361,9 +370,6 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Presentacion\Compuestos\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
