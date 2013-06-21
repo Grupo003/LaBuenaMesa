@@ -1,0 +1,274 @@
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.exe
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.pdb
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.xml
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.Resources.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Principal.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_login.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_administrador.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Almacen.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_asignar_pedidoMotista.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_bitacora.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_caja.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajaCajero.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajero.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Cliente.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_detallePedido.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_grupo.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesa.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesero.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_monto.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_motista.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pago.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pedido.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_privilegio.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_producto.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_productoAlmacen.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_recepcionista.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.vbproj.GenerateResource.Cache
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.exe
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.xml
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.0\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.pdb
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.exe
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.xml
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.pdb
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.exe
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.pdb
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.xml
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.MDForm.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.Resources.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Principal.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_login.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_administrador.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Almacen.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_asignar_pedidoMotista.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_bitacora.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_caja.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajaCajero.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajero.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Cliente.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_detallePedido.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_grupo.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesa.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesero.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_monto.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_motista.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pago.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pedido.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_privilegio.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_producto.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_productoAlmacen.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_recepcionista.resources
+C:\Users\jayucra\Desktop\LA BUENA MESA\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.vbproj.GenerateResource.Cache
+<<<<<<< HEAD
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.exe
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.xml
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.pdb
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.exe
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.pdb
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.xml
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.MDForm.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.Resources.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Principal.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_login.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_administrador.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Almacen.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_asignar_pedidoMotista.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_bitacora.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_caja.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajaCajero.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajero.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Cliente.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_detallePedido.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_grupo.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesa.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesero.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_monto.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_motista.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pago.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pedido.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_privilegio.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_producto.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_productoAlmacen.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_recepcionista.resources
+C:\Users\jayucra\Desktop\Doved\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.vbproj.GenerateResource.Cache
+=======
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.exe
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.xml
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.pdb
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.exe
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.pdb
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.xml
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.MDForm.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.Resources.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Principal.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_login.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_administrador.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Almacen.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_asignar_pedidoMotista.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_bitacora.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_caja.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajaCajero.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajero.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Cliente.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_detallePedido.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_grupo.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesa.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesero.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_monto.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_motista.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pago.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pedido.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_privilegio.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_producto.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_productoAlmacen.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_recepcionista.resources
+C:\Users\Owner\Desktop\PERCY_ESCALANTE\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.vbproj.GenerateResource.Cache
+>>>>>>> b316573eb7e01a4e47c9c31a7ef39c6838905b2c
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.exe
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.xml
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.pdb
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.exe
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.pdb
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.xml
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.MDForm.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.Resources.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Principal.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_login.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_administrador.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Almacen.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_asignar_pedidoMotista.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_bitacora.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_caja.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajaCajero.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajero.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Cliente.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_detallePedido.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_grupo.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesa.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesero.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_monto.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_motista.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pago.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pedido.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_privilegio.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_producto.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_productoAlmacen.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_recepcionista.resources
+C:\Users\Diego\Documents\la buena mesa 1\LA _BUENA _MESA_V1.1.1\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.vbproj.GenerateResource.Cache
+>>>>>>> edd9a23837d59b39294add9647c4eb0a1d084e55
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.exe
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.xml
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.pdb
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.exe
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.pdb
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.xml
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_registroPersona.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.MDForm.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.Resources.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Principal.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_login.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_administrador.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Almacen.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_asignar_pedidoMotista.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_bitacora.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_caja.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajaCajero.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajero.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Cliente.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_detallePedido.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_grupo.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesa.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesero.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_monto.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_motista.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pago.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pedido.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_privilegio.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_producto.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_productoAlmacen.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_recepcionista.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.vbproj.GenerateResource.Cache
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.exe
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.xml
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.pdb
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.exe
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.pdb
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.xml
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_meseroHacePedido.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_registrarCajaCajeroPago.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_registroCaja.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_registroPersona.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_registroProductos.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_registrosPrincipal.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_reserva.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.MDForm.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.Resources.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Principal.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_login.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_administrador.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Almacen.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_asignar_pedidoMotista.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_bitacora.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_caja.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajaCajero.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajero.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Cliente.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_detallePedido.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_grupo.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesa.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesero.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_monto.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_motista.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pago.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pedido.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_privilegio.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_producto.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_productoAlmacen.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_recepcionista.resources
+C:\Users\OBED\Desktop\ULTIMO\LA _BUENA _MESA_V1.1.2\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.vbproj.GenerateResource.Cache
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.exe
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.xml
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.pdb
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.exe
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.pdb
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\bin\Debug\LaBuenaMesa.xml
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_meseroHacePedido.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_registrarCajaCajeroPago.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_registroCaja.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_registroPersona.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_registroProductos.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_registrosPrincipal.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_reserva.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.MDForm.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.Resources.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Principal.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_login.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_administrador.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Almacen.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_asignar_pedidoMotista.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_bitacora.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_caja.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajaCajero.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_cajero.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_Cliente.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_detallePedido.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_grupo.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesa.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_mesero.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_monto.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_motista.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pago.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_pedido.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_privilegio.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_producto.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_productoAlmacen.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.frm_recepcionista.resources
+C:\Users\jayucra\Desktop\Final\LA _BUENA _MESA_V1.1.3\LaBuenaMesa\LaBuenaMesa\obj\Debug\LaBuenaMesa.vbproj.GenerateResource.Cache
