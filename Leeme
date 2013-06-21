@@ -1,0 +1,32 @@
+1. Adjuntar la base de datos al motor de sql server 2008
+
+2. Descargar la version final del repositorio.
+
+3. Abrir el proyecto con visual estudio 2008
+
+4. Correr Programa
+
+
+
+
+Nota :
+
+
+La claves y usuarios del sistema para su ingreso son :
+
+Usuario : 1
+
+Login  : 1
+
+Password :1
+
+
+Usuario : 0
+
+Login  : 0
+
+Password :0
+
+
+
+
