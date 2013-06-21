@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        DEMO
+        //DEMO
         
         DEMO2
 // put your code here
